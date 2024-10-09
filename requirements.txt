@@ -1,7 +1,7 @@
 jax>=0.4.33
 jaxlib>=0.4.33
 fjformer==0.0.82
-transformers>=4.40.0
+transformers==4.40.2
 optax~=0.2.2
 msgpack~=1.0.7
 ipython~=8.17.2
@@ -14,3 +14,4 @@ scipy==1.13.1
 websocket-client~=1.8.0
 websockets~=11.0.3
 flax~=0.8.4
+Jinja2==3.1.4
